@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24ec6f92-f48c-4a96-85e8-31e720197bfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aqa_full.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting_started_python/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting_started_python/google_should_find_selene.py" beforeDir="false" afterPath="$PROJECT_DIR$/getting_started_python/google_should_find_selene.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting_started_python/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting_started_python/test_niffler_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/getting_started_python/test_niffler_login.py" afterDir="false" />
-    </list>
+    <list default="true" id="24ec6f92-f48c-4a96-85e8-31e720197bfb" name="Changes" comment="init project&#10;Update google_should_find_selene.py&#10;&#10;updated search phrase" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,6 +154,19 @@
       <option name="presentableId" value="Default" />
       <updated>1779743242403</updated>
     </task>
+    <task id="LOCAL-00001" summary="init project&#10;Update google_should_find_selene.py&#10;&#10;updated search phrase">
+      <option name="closed" value="true" />
+      <created>1779808890465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779808890465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project&#10;Update google_should_find_selene.py&#10;&#10;updated search phrase" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project&#10;Update google_should_find_selene.py&#10;&#10;updated search phrase" />
   </component>
 </project>
