@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Build / distribution
+dist/
+build/
+
+# Environment variables
+.env
