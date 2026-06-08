@@ -3,6 +3,7 @@
 
 # IDE
 .idea/
+.idea
 
 # Python cache
 __pycache__/
